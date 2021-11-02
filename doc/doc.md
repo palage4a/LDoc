@@ -1052,7 +1052,7 @@ is found: the language can be `c`, `cpp` or `cxx` for C/C++, anything else is Lu
 
 ## Tag Modifiers
 
-Ay tag may have _tag modifiers_. For instance, you may say
+Any tag may have _tag modifiers_. For instance, you may say
 `@param[type=number]` and this associates the modifier `type` with value `number` with this
 particular param tag. A shorthand has been introduced for this common case, which is `@tparam
 <type> <parmname> <comment>`; in the same way `@treturn` is defined.
